@@ -1,0 +1,92 @@
+@media(max-width: 767px){
+    .first-screen{
+        background-size: 100% 100%;
+        width: 1550px;
+        height: 800px;
+
+    }
+    .adress, .phone, .big-text, .vkus, .froze, .button, .select{
+        display: none;
+    }
+
+    .text{
+        margin-left: 800px;
+        display: flex;
+        align-items: center;
+        font-size: 24px;
+        justify-content: center;
+        white-space: nowrap;
+    }
+
+    .cards{
+        display: flex;
+        margin-left: 550px;
+        margin-top: 100px;
+    }
+
+    .mockup{
+        margin-top: 5px;
+        width: 1600px;
+        height: 1000px;
+
+    }
+
+    .title{
+       margin-left: 1100px;
+    }
+
+    .title-text3{
+        display: none;
+    }
+
+    .title-text2{
+        margin-left: 1100px;
+        margin-right: 50px;
+    }
+
+    .review{
+        display: none;
+    }
+
+    .review-card{
+        width: 100vw;
+    }
+
+    .zakazs{
+        white-space: nowrap;
+    }
+
+    .zakaz, .zakaz1{
+        margin-left: 800px;
+    }
+
+    .insts{
+
+
+
+    }
+
+    .inst{
+        display: flex;
+        align-items: center;
+        width: 1600px;
+        overflow-x: auto;
+
+    }
+
+    .footer{
+        width: 1600px;
+    }
+
+    .smoke5{
+        width: 100%;
+
+    }
+
+
+
+
+}
+
+
+
